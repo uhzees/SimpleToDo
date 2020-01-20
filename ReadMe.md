@@ -16,21 +16,13 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-So far, no challenges. Really enjoyed this assignment.
+So far, no challenges encountered. Still getting used to the format of teaching, however, making big progress. Really enjoyed this assignment.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Azis Toktobaev
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
