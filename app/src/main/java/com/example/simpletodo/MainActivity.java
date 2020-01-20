@@ -78,10 +78,10 @@ public class MainActivity extends AppCompatActivity {
     // will lod item by reading every line
     private void loadItems() {
         try {
-            items = new ArrayList<>(FileUtils.readLines(getDataFile(), Charset.defaultCharset());
+            items = new ArrayList<>(FileUtils.readLines(getDataFile(), Charset.defaultCharset()));
         } catch (IOException e) {
             Log.e("MainActivity", "Error Reading Lines", e);
-            items new ArrayList<>();
+            items = new ArrayList<>();
         }
     }
     // save items by writing them
