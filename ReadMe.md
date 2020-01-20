@@ -15,6 +15,7 @@ The following **required** functionality is completed:
 * User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 ## Video Walkthrough
+https://media.giphy.com/media/QAgP73rQF8cRpKBpeP/giphy.gif
 
 ## Notes
 
